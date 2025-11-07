@@ -12,8 +12,9 @@ int main(int argc, char **argv) {
 
     printf("John Llano, a.k.a articbear!\n");
     printf("Self tougth learner yay!.\n");
-    printf("I need to learn more about Git");
+    printf("I need to learn more about Git.\n");  
+    printf("Learning a lot!!\n");
 
-    return 0;
+    return EXIT_SUCCESS;
 }
 
